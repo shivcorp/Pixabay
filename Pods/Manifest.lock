@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.2.2)
+  - CHTCollectionViewWaterfallLayout/Swift (0.9.8)
+  - SDWebImage (5.6.0):
+    - SDWebImage/Core (= 5.6.0)
+  - SDWebImage/Core (5.6.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - CHTCollectionViewWaterfallLayout/Swift
+  - SDWebImage (~> 5.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CHTCollectionViewWaterfallLayout
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CHTCollectionViewWaterfallLayout: 5f241d2480ab4939aa0d1ad4981de9eef1fbe60d
+  SDWebImage: 21b19f56b4226cdfe3aefe4e6848dc43ed129a86
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: d25f2d056367efd800e0d20e5fd92ef6f515f3b8
+
+COCOAPODS: 1.9.0
